@@ -16,8 +16,9 @@ An always-on-top Windows tool that captures the Arknights PC recruitment window,
 2. Start Arknights and open the recruitment screen.
 3. Start `ArknightsRecruitTool.exe`.
 4. Press **F8** to capture and scan.
+  **The Robot tag is ignored and will not show on the app window**
 
-The app finds the process named `Arknights`, reads its window bounds, captures that rectangle, and runs Windows OCR locally. It does not inject code into or modify the game process.
+The app finds the process named `Arknights`, reads its window bounds, captures that rectangle, and runs Windows OCR locally. It does not inject code into or modify the game process. 
 
 ## Build
 

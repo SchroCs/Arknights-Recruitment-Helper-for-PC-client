@@ -1,6 +1,6 @@
 # Arknights Recruitment Helper
 
-An  Windows tool that captures the Arknights PC recruitment window, runs Windows OCR, and shows guaranteed 4-star and 5-star recruitment results. Top Operator combinations include matching 6-star operators.
+A Windows tool that captures the Arknights PC recruitment window, runs Windows OCR, and shows guaranteed 4-star and 5-star recruitment results. Top Operator combinations include matching 6-star operators.
 
 ## Requirements
 

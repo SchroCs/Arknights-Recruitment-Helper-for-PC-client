@@ -17,6 +17,7 @@ A Windows tool that captures the Arknights PC recruitment window, runs Windows O
 3. Start `ArknightsRecruitTool.exe`.
 4. Press **F8** to capture and scan.
   **The Robot tag is ignored and will not show up on the app window**
+5. If the operator row is highlighted, it means that combination of tag has a chance to result in a highter rarity operator. For example a single Debuff tag will be highlighted since there's a chance you can get a 5 star ops, but Healing + Vanguard will not.
 
 The app finds the process named `Arknights`, reads its window bounds, captures that rectangle, and runs Windows OCR locally. It does not inject code into or modify the game process. 
 
